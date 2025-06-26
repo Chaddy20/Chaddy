@@ -1,0 +1,13 @@
+h1 {
+  color: black;
+}
+
+p {
+  color: blue;
+  display: inline;
+}
+
+.flex {
+  display: flex;
+  background-color: green;
+}
